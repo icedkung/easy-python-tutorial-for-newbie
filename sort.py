@@ -11,7 +11,7 @@ def sortnum():
          break
      number.append(x)
 
-#ickdev sorting tutorial
+#sorting tutorial
 
  #sorted output
  print("\nก่อนเรียง=>",number)

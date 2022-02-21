@@ -16,5 +16,4 @@ def fnumcount():
   print('ผลลัพธ์')
   print(list(range(fnum,lnum,rnum)))
 
-
 fnumcount()

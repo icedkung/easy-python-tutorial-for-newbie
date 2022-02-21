@@ -17,3 +17,4 @@ def fnumcount():
   print(list(range(fnum,lnum,rnum)))
 
 fnumcount()
+

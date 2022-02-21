@@ -17,5 +17,3 @@ def qnumcount():
 ''' jlr team teaching for everyone '''
 #function call
 qnumcount()
-
-
